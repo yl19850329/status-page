@@ -1,6 +1,6 @@
 export default {
   key: {
-    uptimerobot: 'ur1047124-c17f135f8eab023bb4b6987b',
+    uptimerobot: 'ur135188-7412b2de5d610e7291557eb6',
   },
   page: {
     title: 'Status Page',
